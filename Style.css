@@ -166,7 +166,7 @@
 }
 .fa-magnifying-glass{
   position: absolute;
-  top: 103px;
+  top: 110px;
   left: 70px;
   z-index: 1;
   font-size: 1.3rem;
@@ -174,7 +174,7 @@
 }
 .fa-location-dot{
   position: absolute;
-  top: 103px;
+  top: 110px;
   left: 300px;
   z-index: 1;
   font-size: 1.3em;
